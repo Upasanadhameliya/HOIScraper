@@ -14,18 +14,10 @@ class QuotesSpider(scrapy.Spider):
         print("Response url:")
         print(response.url)
 
-        print("Response css: div")
-        print(response.css("div"))
+        print("Response css: div.catgList")
+        print(response.css("div.catgList")[0])
 
-        # page = response.url.split("/")[-2]
-        # print("Page is:")
-        # print(page)
-
-        # filename = f'quotes-{page}.html'
+        necklace_div = response.css("div.catgList")[0]
         
-        # print("Filename is:")
-        # print(filename)
-        # with open(filename, 'wb') as f:
-        #     print("writing to file")
-        #     f.write(response.body)
-        # self.log(f'Saved file {filename}')
+        print("A different approach:")
+        print(necklace_div.css("ul li"))
