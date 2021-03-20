@@ -18,6 +18,6 @@ class QuotesSpider(scrapy.Spider):
         print(response.css("div.catgList")[0])
 
         necklace_div = response.css("div.catgList")[0]
-        
+
         print("A different approach:")
-        print(necklace_div.css("ul li"))
+        [print(i) for i in necklace_div.css("ul li::attr(data-name)").getall()]
