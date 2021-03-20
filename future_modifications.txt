@@ -1,0 +1,14 @@
+Future Modifications:
+
+Default: Jewelery section download necklace sets
+
+In jewlery section can download a specific category
+In jewlery section can download all categories in different files
+In jewlery section can download all categories in the same file (add a new column of sub category)
+
+In a particular section download a particular category
+In a particular section download all categories in different files
+In a particular section download all categories in the same file
+
+Scrape all the sections and download all categories in different files
+Scrape all the sections and download all categories in the same file
