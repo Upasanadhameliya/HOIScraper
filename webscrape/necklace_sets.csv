@@ -41,3 +41,46 @@ set_id,description,price,img_url_1,img_url_2
 40,Gold Kundan Single Orb Earring Necklace Set,2900.00,https://img.faballey.com/Images/Product/ZNS00010/1.jpg,https://img.faballey.com/images/Product/ZNS00010/2.jpg
 41,Gold Bead Cluster Earring Neckace Set,1800.00,https://img.faballey.com/Images/Product/ZNS00034/1.jpg,https://img.faballey.com/images/Product/ZNS00034/2.jpg
 42,Green Bead Kundan Earring Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00043/1.jpg,https://img.faballey.com/images/Product/ZNS00043/2.jpg
+set_id,description,price,img_url_1,img_url_2,color
+1,Gold Kundan Mangtika Earring Necklace Set,3500.00,https://img.faballey.com/Images/Product/ZNS00002/1.jpg,https://img.faballey.com/images/Product/ZNS00002/2.jpg,white
+2,Silver Oxidized Green Stone Star Earring Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00021/1.jpg,https://img.faballey.com/images/Product/ZNS00021/2.jpg,green
+3,Gold Green Kundan Bead Drop Earring Necklace Set,3750.00,https://img.faballey.com/Images/Product/ZNS00018/1.jpg,https://img.faballey.com/images/Product/ZNS00018/2.jpg,White
+4,Gold Leaf Kundan Double Pearl Earrings Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00045/1.jpg,https://img.faballey.com/images/Product/ZNS00045/2.jpg,white
+5,Gold Kundan Blue Bead Earring Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00041/1.jpg,https://img.faballey.com/images/Product/ZNS00041/2.jpg,blue
+6,Gold Kundan Multi Pearl String Earring Necklace Set,2000.00,https://img.faballey.com/Images/Product/ZNS00048/1.jpg,https://img.faballey.com/images/Product/ZNS00048/2.jpg,white
+7,Gold Kundan Green Bead String Earring Necklace Set,2000.00,https://img.faballey.com/Images/Product/ZNS00049/1.jpg,https://img.faballey.com/images/Product/ZNS00049/2.jpg,green
+8,Gold Kundan Pearl Earring Necklace Set,2375.00,https://img.faballey.com/Images/Product/ZNS00044/1.jpg,https://img.faballey.com/images/Product/ZNS00044/2.jpg,white
+9,Rose Gold Plated  Crystal Necklace Set,2450.00,https://img.faballey.com/Images/Product/ZNS00064/1.jpg,https://img.faballey.com/images/Product/ZNS00064/2.jpg,white
+10,Gold Kundan Red Drop Meena Earring Necklace Set,2250.00,https://img.faballey.com/Images/Product/ZNS00054/1.jpg,https://img.faballey.com/images/Product/ZNS00054/2.jpg,red
+11,Gold Round Kundan Pearl Earring Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00035/1.jpg,https://img.faballey.com/images/Product/ZNS00035/2.jpg,white
+12,Gold Red Kundan Bead Earring Necklace Set,1600.00,https://img.faballey.com/Images/Product/ZNS00003/1.jpg,https://img.faballey.com/images/Product/ZNS00003/2.jpg,red
+13,Gold Kundan Multicolor Stone Earring Necklace Set,2000.00,https://img.faballey.com/Images/Product/ZNS00053/1.jpg,https://img.faballey.com/images/Product/ZNS00053/2.jpg,maroon
+14,Blue Bead Kundan Earring Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00050/1.jpg,https://img.faballey.com/images/Product/ZNS00050/2.jpg,blue
+15,Gold Kundan Cascade Earring Necklace Set,2250.00,https://img.faballey.com/Images/Product/ZNS00039/1.jpg,https://img.faballey.com/images/Product/ZNS00039/2.jpg,white
+16,Dual Gold Kundan Green Bead Earring Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00055/1.jpg,https://img.faballey.com/images/Product/ZNS00055/2.jpg,pink
+17,White Diamond Aqua Drop Earring Necklace Set,2450.00,https://img.faballey.com/Images/Product/ZNS00013/1.jpg,https://img.faballey.com/images/Product/ZNS00013/2.jpg,blue
+18,Gold Kundan Tukdi Earring Necklace Set,2500.00,https://img.faballey.com/Images/Product/ZNS00007/1.jpg,https://img.faballey.com/images/Product/ZNS00007/2.jpg,white
+19,Dual Gold Kundan Pearl Earring Necklace Set,2000.00,https://img.faballey.com/Images/Product/ZNS00056/1.jpg,https://img.faballey.com/images/Product/ZNS00056/2.jpg,red
+20,Gold Kundan Green Drop Pearl Earring Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00047/1.jpg,https://img.faballey.com/images/Product/ZNS00047/2.jpg,green
+21,Gold Kundan Earring Pearl String Pendant Necklace Set,1500.00,https://img.faballey.com/Images/Product/ZNS00008/1.jpg,https://img.faballey.com/images/Product/ZNS00008/2.jpg,white
+22,Gold Textured Contemporary Choker Necklace Set,1100.00,https://img.faballey.com/Images/Product/ZNS00070/1.jpg,https://img.faballey.com/images/Product/ZNS00070/2.jpg,Gold
+23,Gold Kundan Pear Dainty Drop Earrings  Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00046/1.jpg,https://img.faballey.com/images/Product/ZNS00046/2.jpg,white
+24,Gold Green Kundan Floral Pendant Necklace Set,2100.00,https://img.faballey.com/Images/Product/ZNS00063/1.jpg,https://img.faballey.com/images/Product/ZNS00063/2.jpg,green
+25,White Blue Diamond Earring Pendant Necklace Set,2625.00,https://img.faballey.com/Images/Product/ZNS00011/1.jpg,https://img.faballey.com/images/Product/ZNS00011/2.jpg,blue
+26,Gold Kundan Green Drop Double Orb Earring Necklace Set,2250.00,https://img.faballey.com/Images/Product/ZNS00038/1.jpg,https://img.faballey.com/images/Product/ZNS00038/2.jpg,green
+27,Gold Maroon Kundan Floral Necklace Set,2250.00,https://img.faballey.com/Images/Product/ZNS00058/1.jpg,https://img.faballey.com/images/Product/ZNS00058/2.jpg,maroon
+28,Gold Orb Kundan Double Pearl Earrings Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00051/1.jpg,https://img.faballey.com/images/Product/ZNS00051/2.jpg,white
+29,Gold Kundan Dual Pearl Earring Necklace Set,2000.00,https://img.faballey.com/Images/Product/ZNS00052/1.jpg,https://img.faballey.com/images/Product/ZNS00052/2.jpg,white
+30,White Diamond Floral Bunch Earring Necklace Set,2750.00,https://img.faballey.com/Images/Product/ZNS00032/1.jpg,https://img.faballey.com/images/Product/ZNS00032/2.jpg,white
+31,White Blue Diamond Drop String Earring Necklace Set,2875.00,https://img.faballey.com/Images/Product/ZNS00031/1.jpg,https://img.faballey.com/images/Product/ZNS00031/2.jpg,blue
+32,Gold Kundan Aqua Stone Floral Pendant Necklace Set,1475.00,https://img.faballey.com/Images/Product/ZNS00062/1.jpg,https://img.faballey.com/images/Product/ZNS00062/2.jpg,Blue 
+33,Gold Kundan Blue Bead Pearl Earring Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00042/1.jpg,https://img.faballey.com/images/Product/ZNS00042/2.jpg,green
+34,Gold Kundan Red White Bead Earrimg Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00036/1.jpg,https://img.faballey.com/images/Product/ZNS00036/2.jpg,red
+35,Multi Gold Kundan Red Meena Beaded Earring Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00057/1.jpg,https://img.faballey.com/images/Product/ZNS00057/2.jpg,red
+36,Green Enamal Kundan Petal Earring Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00024/1.jpg,https://img.faballey.com/images/Product/ZNS00024/2.jpg,green
+37,Gold Kundan Pearl Drop Earring  Necklace Set,2375.00,https://img.faballey.com/Images/Product/ZNS00017/1.jpg,https://img.faballey.com/images/Product/ZNS00017/2.jpg,White
+38,Gold Kundan Pearl Drop Earring Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00040/1.jpg,https://img.faballey.com/images/Product/ZNS00040/2.jpg,red
+39,Dual Toned Oxidized Triangular Earrings Necklace Set,1900.00,https://img.faballey.com/Images/Product/ZNS00020/1.jpg,https://img.faballey.com/images/Product/ZNS00020/2.jpg,silver
+40,Gold Kundan Single Orb Earring Necklace Set,2900.00,https://img.faballey.com/Images/Product/ZNS00010/1.jpg,https://img.faballey.com/images/Product/ZNS00010/2.jpg,white
+41,Gold Bead Cluster Earring Neckace Set,1800.00,https://img.faballey.com/Images/Product/ZNS00034/1.jpg,https://img.faballey.com/images/Product/ZNS00034/2.jpg,gold
+42,Green Bead Kundan Earring Necklace Set,1750.00,https://img.faballey.com/Images/Product/ZNS00043/1.jpg,https://img.faballey.com/images/Product/ZNS00043/2.jpg,green

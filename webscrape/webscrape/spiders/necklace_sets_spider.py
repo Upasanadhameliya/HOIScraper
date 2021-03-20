@@ -21,6 +21,7 @@ class NecklaceSetsSpider(scrapy.Spider):
                 'description': li_obj.css("::attr(data-name)").get(),
                 'price': li_obj.css("::attr(data-price)").get(),
                 'img_url_1': li_obj.css("a div.catgItem img::attr(data-original)").get(),
-                'img_url_2': li_obj.css("a div.catgItem img::attr(onmouseover)").get().strip("this.src=").strip("'")
+                'img_url_2': li_obj.css("a div.catgItem img::attr(onmouseover)").get().strip("this.src=").strip("'"),
+                'color': li_obj.css("::attr(data-color)").get()
             }
 
