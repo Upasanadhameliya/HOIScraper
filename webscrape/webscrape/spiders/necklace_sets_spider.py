@@ -2,26 +2,20 @@ import scrapy
 
 
 class NecklaceSetsSpider(scrapy.Spider):
+    """ scrapy.Spider class to scrape the necklace sets on houseofindia.com"""
+
     name = "necklace_sets"
 
+    # Starting on the necklace-sets category on the jewelry section
     start_urls = [
         'https://www.houseofindya.com/zyra/necklace-sets/cat',
     ]
 
+    # Parsing the response object
     def parse(self, response):
-        print("Response is :")
-        print(response)
-        print("Response url:")
-        print(response.url)
 
-        print("Response css: div.catgList")
-        print(response.css("div.catgList")[0])
-
-        necklace_div = response.css("div.catgList")[0]
-
-        print("A different approach:")
-        # [print(i) for i in necklace_div.css("ul li::attr(data-name)").getall()]
-        for li_obj in necklace_div.css("ul li"):
+        # Looping through <li> under <ul id="JsonProductList">
+        for li_obj in response.xpath('//ul[@id="JsonProductList"]/li'):
             yield {
                 'set_id': li_obj.css("::attr(data-pos)").get(),
                 'description': li_obj.css("::attr(data-name)").get(),
