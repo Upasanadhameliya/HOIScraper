@@ -1,15 +1,23 @@
 import scrapy
 
 
-class NecklaceSetsSpider(scrapy.Spider):
+class JewelrySpider(scrapy.Spider):
     """ scrapy.Spider class to scrape the necklace sets on houseofindia.com"""
 
-    name = "necklace_sets"
+    name = "jewelry"
 
-    # Starting on the necklace-sets category on the jewelry section
-    start_urls = [
-        'https://www.houseofindya.com/zyra/necklace-sets/cat',
-    ]
+    
+    # start_urls = [
+    #     'https://www.houseofindya.com/zyra/necklace-sets/cat',
+    # ]
+
+    def start_requests(self):
+        # Starting on the necklace-sets category on the jewelry section
+        url = 'https://www.houseofindya.com/zyra/necklace-sets/cat'
+        category = getattr(self, 'cat', None)
+        if category is not None:
+            url = 'https://www.houseofindya.com/zyra/'+category+'/cat'
+        yield scrapy.Request(url, self.parse)
 
     # Parsing the response object
     def parse(self, response):

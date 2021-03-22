@@ -12,3 +12,5 @@ In a particular section download all categories in the same file
 
 Scrape all the sections and download all categories in different files
 Scrape all the sections and download all categories in the same file
+
+Do all these functions using one single spider instead of different spiders using command line args
