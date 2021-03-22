@@ -24,7 +24,7 @@ scrapy crawl jewelry -O <filename>.csv
 scrapy crawl jewelry -O <filename>.json
 ```
 
-### Jewelry spider for a particular category
+### Jewelry spider for a particular category under jewelry section
 From the webscraper directory run the following command:
 1. csv :
 ```
@@ -35,7 +35,7 @@ scrapy crawl jewelry -O <filename>.csv -a cat=hair-jewelry
 scrapy crawl jewelry -O <filename>.json -a cat=hair-jewelry
 ```
 
-### Jewelry spider for a particular category
+### Jewelry spider for all categories under jewelry section
 From the webscraper directory run the following command:
 1. csv :
 ```
@@ -45,35 +45,12 @@ scrapy crawl jewelry -O <filename>.csv -a all=true
 ```
 scrapy crawl jewelry -O <filename>.json -a all=true
 ```
-Scrapes and saves all quotes with their author and tags.
+Scrapes and saves all items with their category names in a separate field
 
-
-```
-scrapy crawl quotes_scroll -o <filename>.json
-```
-Scrapes and saves all quotes with their author and tags when the page uses continuous scrolling and not a Nex Page  button.
-
-
-```
-scrapy crawl login_spider -o <filename>.json
-```
-This spider first performs a login to then access a link to goodreads.com accessible only after the login. Then saves 
-The atuhor and their respective page in goodreads.com
 
 # Output
 
-###### FundRazr spider 
-![Alt text](screens/fundrazr_screen.png?raw=true "FundRazr csv")
+###### Necklace Sets CSV File 
+![Alt text](Screenshots/Screenshot1.png?raw=true "Necklace sets csv")
 
-###### SportsDirect spider 
-![Alt text](screens/sportsdirect_screen.png?raw=true "SportsDirect JSON")
-![Alt text](screens/sportsdirect_screen2.png?raw=true "SportsDirect Downloads")
-
-###### authors spider 
-![Alt text](screens/authors.png?raw=true "authors json")
-
-###### quotes/quotes_scroll spider
-![Alt text](screens/quotes.png?raw=true "quotes json")
-
-###### login_spider spider
-![Alt text](screens/author_goodreadurl.png?raw=true "logn_author_goodreads_url json")
+All other output files are under "Output" folder
